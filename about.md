@@ -4,12 +4,21 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+A Norwegian with with a particular interest in distributed computing and machine learning.
+Pretty much grew up on the internet, and with computers. Although my youth was mostly spent playing
+games such as World of Warcraft, Counter-Strike and Unreal Tournament.
 
-### More Information
+I love to learn things. These days that's mostly related to programming, but I try to keep an
+open mind to learning other creative skills as well.
 
-A place to include any other types of information that you'd like to include about yourself.
+If you attached a tracking-device to me, you would frequently see me traveling to Japan.
+I always try to be better today than I was yesterday, though I'm struggling more now than when 
+my schedule was barren. 
+I also really enjoy going to the gym to challenge myself, and keep the work-hazard of bodily decay
+somewhat at bay.
 
-### Contact me
+#### Education
+I studied Japanese Language at University of Oslo and Computer engineering at College of Oslo and Akershus.
 
-[email@domain.com](mailto:email@domain.com)
+#### Work
+Currently working at [Finn.no](https://www.finn.no) with recommendations using machine learning.
