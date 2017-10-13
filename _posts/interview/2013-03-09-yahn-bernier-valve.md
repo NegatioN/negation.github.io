@@ -35,8 +35,7 @@ Writing overly complex code still occurs in production environments.
 Language isn’t as important is your expertise in the development environment, 
 your debugging ability, etc.
 
-If I was to focus on professional game-development in teams, 
-how would the answers those questions change?
+#### If I was to focus on professional game-development in teams, how would the answers those questions change?
 
 They’d be the same.
 
