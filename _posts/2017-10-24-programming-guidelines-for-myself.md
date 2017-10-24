@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Programming Guidelines
+excerpt: We can’t really improve upon things we haven't defined what are, so I’ve decided to note down some of my current convictions/guidelines when it comes to programming.
 ---
 (for myself)
 
