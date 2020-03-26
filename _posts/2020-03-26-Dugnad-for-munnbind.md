@@ -15,12 +15,11 @@ Dette impliserer at om Norge gjør et drastisk holdningsskift, og alle bruker mu
 
 For å få en bedre intuisjon om hvordan R0 påvirker epidemien, og hvorfor dette er ekstremt viktig anbefaler jeg at man tester denne [fantastiske kalkulatoren](http://gabgoh.github.io/COVID/index.html).
 <figure>
-    <img class="center-block" style="width: 70%;" src="/images/epidemic_calculator.png" alt="illustrasjon av epidemi kalkulator" title="Illustrasjon av epidemi kalkulator" />
-    <figcaption style="text-align:right; font-style:italic;">Illustrasjon av epidemi kalkulator</figcaption>
+    <a href="/images/epidemic_calculator.png"><img class="center-block" style="display: block;margin-left: auto;margin-right: auto;width: 70%;" src="/images/epidemic_calculator.png" alt="illustrasjon av epidemi kalkulator" title="Illustrasjon av epidemi kalkulator" /></a>
 </figure>
 
 
-Situasjonen vi er i, handler derimot ikke om munnbind bør anbefales for enkeltindividet, men om det burde anbefales for hele befolkningen, og den samlede påvirkningen dette kan ha.
+Situasjonen vi er i, handler ikke om munnbind bør anbefales for enkeltindividet, men om det burde anbefales for hele befolkningen. Den samlede påvirkningen dette kan ha, kommer av at vi alle beskytter hverandre ved å bruke de, og ikke i hovedsak oss selv.
 Om informasjon om hvordan man bruker munnbind, og tilgang til de er de største utfordringene, er dette ting vi burde jobbe med. Kostnadene av en opplysningskampanje for å bruke munnbind begynner hvertfall å blekne i forhold til det andre tiltakene vi setter i verks.
 
 ## Det finnes ikke nok munnbind til alle
