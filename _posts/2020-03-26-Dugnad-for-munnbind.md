@@ -12,7 +12,13 @@ Her i Norge har vi allerede tatt i bruk tiltak i klassen av hundretalls milliard
 [FHI sier at maskene i følge studier ikke beskytter oss](https://www.fhi.no/sv/influensa/sesonginfluensa/rad-om-influensa/bruk-av-munnbind-utenfor-helsetjenesten-er-ikke-anbefalt/), på grunn av at de i hovedsak er ment for å stoppe brukeren av maskene fra å smitte andre, og at hvermansen mangler kunnskap om hvordan de brukes korrekt. For den enkelte, vil det heller kanskje ikke utgjøre en stor forskjell siden de ikke er syke, og dermed kaster vi bort viktige ressurser. Men om du er i kontakt med noen som er smittet, [eller selv er det (uten å vite det)](https://www.cdc.gov/coronavirus/2019-ncov/prepare/transmission.html), [er faktaene at det hjelper med munnbind](https://www.theguardian.com/world/2020/mar/23/can-a-face-mask-protect-me-from-coronavirus-covid-19-myths-busted). Dersom munnbind generelt ikke fungerte, ville man heller ikke brukt det i helsevesenet.
 
 Dette impliserer at om Norge gjør et drastisk holdningsskift, og alle bruker munnbind vil vi kunne redusere smittepotensialet, og bidra til å få ned dette beryktede [R0-tallet](https://en.wikipedia.org/wiki/Basic_reproduction_number), som vi gjerne vil ha under 1. I dag ser vi blant annet tilfeller hvor [bussene i Oslo er stappfulle](https://www.vg.no/nyheter/innenriks/i/wPjOdA/slik-saa-det-ut-paa-bussen-i-rushtiden-i-oslo), og ingen bruker munnbind. Da vil smittetallet være nær ukontrollert blant de som fortsatt går på jobb, og deres familier. ([2.4 smittede per infiserte i følge FHI](https://www.fhi.no/contentassets/c9e459cd7cc24991810a0d28d7803bd0/covid-19-epidemien-risiko-prognose-og-respons-i-norge-etter-uke-12.--24.mars-2020.pdf)) Dermed vil en karantene vare lengre, og tiltakene vi må gjøre ende opp med å bli mer kostbare, både økonomisk og personlig.
-(For å få en bedre intuisjon om hvordan R0 påvirker epidemien, test med [denne illustrasjonen](http://gabgoh.github.io/COVID/index.html).)
+
+For å få en bedre intuisjon om hvordan R0 påvirker epidemien, og hvorfor dette er ekstremt viktig anbefaler jeg at man tester denne [fantastiske kalkulatoren](http://gabgoh.github.io/COVID/index.html).
+<figure>
+    <img class="center-block" style="width: 70%;" src="/images/epidemic_calculator.png" alt="illustrasjon av epidemi kalkulator" title="Illustrasjon av epidemi kalkulator" />
+    <figcaption style="text-align:right; font-style:italic;">Illustrasjon av epidemi kalkulator</figcaption>
+</figure>
+
 
 Situasjonen vi er i, handler derimot ikke om munnbind bør anbefales for enkeltindividet, men om det burde anbefales for hele befolkningen, og den samlede påvirkningen dette kan ha.
 Om informasjon om hvordan man bruker munnbind, og tilgang til de er de største utfordringene, er dette ting vi burde jobbe med. Kostnadene av en opplysningskampanje for å bruke munnbind begynner hvertfall å blekne i forhold til det andre tiltakene vi setter i verks.
