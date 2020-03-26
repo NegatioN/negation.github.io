@@ -35,7 +35,7 @@ Studier tilsier at dette ikke hjelper *like mye* som N95 masker, ei heller kirur
 
 
 <figure>
-    <a href="/images/mask_materials.jpg"><img class="center-block" style="display: block;margin-left: auto;margin-right: auto;width: 70%;" src="/images/mask_materials.jgp" alt="Diagram over blokkeringsevne i forskjellige husholdningsmaterialer" title="Diagram over blokkeringsevne i forskjellige husholdningsmaterialer" /></a>
+    <a href="/images/mask_materials.jpg"><img class="center-block" style="display: block;margin-left: auto;margin-right: auto;width: 70%;" src="/images/mask_materials.jpg" alt="Diagram over blokkeringsevne i forskjellige husholdningsmaterialer" title="Diagram over blokkeringsevne i forskjellige husholdningsmaterialer" /></a>
     <figcaption style="text-align:right; font-style:italic;">Diagram over blokkeringsevne i forskjellige husholdningsmaterialer</figcaption>
 </figure>
 
