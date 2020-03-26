@@ -21,7 +21,7 @@ Om informasjon om hvordan man bruker munnbind, og tilgang til de er de største 
 
 > “Ja, ok. Men hvor skal vi få disse munnbindene da? De er jo umulig å oppdrive nå” 
 
-“Ja, ok. Men hvor skal vi få disse munnbindene da? De er jo umulig å oppdrive nå”, sier kanskje noen mens de leser dette. Det er jo et faktum at det vi får importert må forbeholdes de som driver med det mest utsatte arbeidet, men det betyr ikke at vi andre ikke har noen alternativer til å bidra i denne dugnaden. Over hele verden dukker det nå opp spontane initiativ for [å lage disse maskene selv](https://www.youtube.com/watch?v=S9RWII2-5_4), [av ting vi alle har i huset fra før](https://www.youtube.com/watch?v=BCJcE-r7kcg), [slik som t-skjorter av bomull](https://www.youtube.com/watch?v=vTJevg9i7XA) eller [mer avanserte varianter som krever en 3d-printer](https://www.fast.ai/2020/03/20/saving-the-mask/). Foreløpige studier fra Stanford medicine viser også at å utsette viruset for [70-100 grader ved koking eller i ovn ser ut til å desinfisere N95-masker](https://aim.stanford.edu/covid-19-evidence-service/), dermed er det ikke urimelig å tro at dette også kan fungere på munnbind av stoff.
+Det er et faktum at det vi får importert må forbeholdes de som driver med det mest utsatte arbeidet, men det betyr ikke at vi andre ikke har noen alternativer til å bidra i denne dugnaden. Over hele verden dukker det nå opp spontane initiativ for [å lage disse maskene selv](https://www.youtube.com/watch?v=S9RWII2-5_4), [av ting vi alle har i huset fra før](https://www.youtube.com/watch?v=BCJcE-r7kcg), [slik som t-skjorter av bomull](https://www.youtube.com/watch?v=vTJevg9i7XA) eller [mer avanserte varianter som krever en 3d-printer](https://www.fast.ai/2020/03/20/saving-the-mask/). Foreløpige studier fra Stanford medicine viser også at å utsette viruset for [70-100 grader ved koking eller i ovn ser ut til å desinfisere N95-masker](https://aim.stanford.edu/covid-19-evidence-service/), dermed er det ikke urimelig å tro at dette også kan fungere på munnbind av stoff.
 Da kan man sitte igjen med gjenbrukbare munnbind, som gjør at vi ikke trenger å krangle med helsevesenet om de få ressursene vi har tilgjengelig, men samtidig gjøre ting bedre.
 
 > “Okay, det høres passe jalla ut, og hjelper virkelig det mot viruset?”
@@ -30,8 +30,8 @@ Studier tilsier at dette ikke hjelper *like mye* som N95 masker, ei heller kirur
 
 
 <figure>
-    <img class="center-block" src="/images/mask_materials.jgp" alt="List of mask matrerials and their effectiveness" title="A diagram of materials and their effectiveness against small particles" />
-    <figcaption style="text-align:right; font-style:italic;">A diagram of materials and their effectiveness against small particles</figcaption>
+    <img class="center-block" src="/images/mask_materials.jgp" alt="Diagram over blokkeringsevne i forskjellige husholdningsmaterialer" title="Diagram over blokkeringsevne i forskjellige husholdningsmaterialer" />
+    <figcaption style="text-align:right; font-style:italic;">Diagram over blokkeringsevne i forskjellige husholdningsmaterialer</figcaption>
 </figure>
 
 Bare det å [redusere mengden virus man selv, eller andre blir utsatt for kan også være avgjørende](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7064018/#__sec9title) for om man opparbeider tidlig immunitet, eller at immunsystemet blir overveldet. Selv om vi ikke stopper alt viruset med disse hjemmelagde maskene, er det altså sannsynlig at det vil hjelpe både oss selv, og de vi bryr oss om.
@@ -47,4 +47,4 @@ Vi ser også at landene som rapporterer om mest suksess i bekjempelsen av viruse
 
 Hva om energien vi bruker til å klappe for helsearbeiderne, i stedet gikk til å sy masker vi selv kunne redusere spredningspotensialet med? For det er jo utrolig mange flinke, nevenyttige folk her til lands.
 
-For de som er interessert i flere studier om bruken av munnbind, og effekten av dette: https://docs.google.com/document/d/1HLrm0pqBN_5bdyysOeoOBX4pt4oFDBhsC_jpblXpNtQ/edit#heading=h.9yzpxufkt5ow
+For de mer nyskjerrige, her er en oppsummert liste over flere [studier som argumenterer for nytteverdien av munnbind](https://docs.google.com/document/d/1HLrm0pqBN_5bdyysOeoOBX4pt4oFDBhsC_jpblXpNtQ/edit#heading=h.9yzpxufkt5ow)
