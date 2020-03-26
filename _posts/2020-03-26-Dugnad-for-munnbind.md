@@ -35,7 +35,7 @@ Studier tilsier at dette ikke hjelper *like mye* som N95 masker, ei heller kirur
 
 
 <figure>
-    <img class="center-block" src="/images/mask_materials.jgp" alt="Diagram over blokkeringsevne i forskjellige husholdningsmaterialer" title="Diagram over blokkeringsevne i forskjellige husholdningsmaterialer" />
+    <a href="/images/mask_materials.jpg"><img class="center-block" style="display: block;margin-left: auto;margin-right: auto;width: 70%;" src="/images/mask_materials.jgp" alt="Diagram over blokkeringsevne i forskjellige husholdningsmaterialer" title="Diagram over blokkeringsevne i forskjellige husholdningsmaterialer" /></a>
     <figcaption style="text-align:right; font-style:italic;">Diagram over blokkeringsevne i forskjellige husholdningsmaterialer</figcaption>
 </figure>
 
@@ -45,7 +45,7 @@ Bare det å [redusere mengden virus man selv, eller andre blir utsatt for kan og
 Vi ser også at landene som rapporterer om mest suksess i bekjempelsen av viruset, i stor grad er land med en kultur for å bruke munnbind, som Japan, Sør-Korea, Hong Kong og Kina. Jeg sier ikke at dette er det eneste tiltaket som utgjør en forskjell mellom oss og disse landene, for de har blant annet også [mindre personvern, som gjør det lettere å spore smitten blant befolkningen.](https://www.theverge.com/2020/3/23/21190700/eu-mobile-carriers-customer-data-coronavirus-south-korea-taiwan-privacy) Men hvis vi er villig til å bruke de ekstreme tiltakene Kina har tatt i bruk, hvorfor er vi ikke villig til å ta i bruk de milde? Å bruke munnbind går kun på bekostning av vår forfengelighet og vane, ikke våre rettigheter.
 
 <figure>
-    <img class="center-block" src="/images/mask_usage_infected.png" alt="Spredning av viruset per land, illustrert med hvilke som har høy munnbind-bruk" title="Land med kultur for munnbind ser ut til å ha mindre spredning" />
+    <a href="/images/mask_usage_infected.png"><img class="center-block" style="display: block;margin-left: auto;margin-right: auto;width: 70%;" src="/images/mask_usage_infected.png" alt="Spredning av viruset per land, illustrert med hvilke som har høy munnbind-bruk" title="Land med kultur for munnbind ser ut til å ha mindre spredning" /></a>
     <figcaption style="text-align:right; font-style:italic;">Land med kultur for munnbind ser ut til å ha mindre spredning</figcaption>
 </figure>
 

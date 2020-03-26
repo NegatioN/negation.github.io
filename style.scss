@@ -30,13 +30,28 @@ body {
   width: 100%;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1 {
   font-family: $helveticaNeue;
   color: $darkerGray;
   font-weight: bold;
 
   line-height: 1.7;
   margin: 1em 0 15px;
+  padding: 0;
+  text-align: center;
+
+  @include mobile {
+    line-height: 1.4;
+  }
+}
+
+h2, h3, h4, h5, h6 {
+  font-family: $helveticaNeue;
+  color: $darkerGray;
+  font-weight: bold;
+
+  line-height: 1.5;
+  margin: 1em 0 0.5em;
   padding: 0;
 
   @include mobile {
@@ -45,7 +60,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 30px;
+  font-size: 35px;
   a {
     color: inherit;
   }
@@ -74,6 +89,7 @@ a {
 	cursor: pointer;
   &:hover, &:active {
     color: $blue;
+    text-decoration: underline;
   }
 }
 
@@ -253,11 +269,11 @@ nav {
 
 .post {
   blockquote {
-    margin: 1.8em .8em;
+    margin: 1.2em .8em;
     border-left: 2px solid $gray;
     padding: 0.1em 1em;
     color: $gray;
-    font-size: 22px;
+    font-size: 20px;
     font-style: italic;
   }
 
