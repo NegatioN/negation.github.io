@@ -73,7 +73,7 @@ to process images. For most teams and organizations this is more of a last resor
 complexity, required competency and up-front work before actually starting to make use of the data.
 
 <figure>
-    <img class="center-block" src="/images/2018-08-09-preparing-your-product-for-ml/object_detection.jpg" alt="object detection" title="object detection" />
+    <img class="center-block" src="/images/object_detection.jpg" alt="object detection" title="object detection" />
     <figcaption style="text-align:right; font-style:italic;">Object detection in action</figcaption>
 </figure>
 
