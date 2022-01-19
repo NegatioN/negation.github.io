@@ -6,10 +6,8 @@ authors: Joakim Rishaug
 title: "Truth In Art"
 tags: [art, philosophy, purpose]
 ---
-To some, this may seem as simple as a top list various entertainment, but to me, it's a list of art which has
-moved me to my core. This kind of art has a power that transcends their respective genre boundaries, and often touches
-a kernel of philosophical truth, without one necessarily being able to put a finger on "why" it does so.
-
+Some art has the power to move us to our core, and transcend their respective genre boundaries, while containing
+kernels of deep truth. In this post, I want to catalogue all art or entertainment which has had this power on me.
 
 I’ve always been interested in the “best” of pretty much every genre of art, rather than any given subject or genre itself.
 One of the intrinsic reasons for this was made apparent to me in [Jordan Peterson's Maps of Meaning lectures](https://www.youtube.com/watch?v=I8Xc2_FtpHI&list=PL22J3VaeABQAT-0aSPq-OKOpQlHyR4k5h), where
