@@ -37,15 +37,19 @@ I also hope to write a short summary of why I found a given piece important.
 ### Music performances
 * [Monsters of Rock - Moscow 91'](https://en.wikipedia.org/wiki/For_Those_About_to_Rock:_Monsters_in_Moscow)
 * [X Japan - The Last Live](https://en.wikipedia.org/wiki/The_Last_Live_Video)
+
 ### TV Series 
 * [Clannad: After Story](https://myanimelist.net/anime/4181/Clannad__After_Story)
 * [Full Metal Alchemist: Brotherhood](https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood)
 * [Neon Genesis Evangelion](https://myanimelist.net/anime/30/Neon_Genesis_Evangelion)
 * [Death Note](https://myanimelist.net/anime/1535/Death_Note)
+
 ### Books 
+
 ### Lectures 
 * [Jordan Peterson: Maps of Meaning](https://www.youtube.com/watch?v=I8Xc2_FtpHI&list=PL22J3VaeABQAT-0aSPq-OKOpQlHyR4k5h)
 * [Richard Hamming - You and your research](https://www.youtube.com/watch?v=a1zDuOPkMSw)
+
 ### Games
 * [Brothers: A Tale of Two Sons](https://www.youtube.com/watch?v=lz3EmqraAxc)
 * [Thomas Was Alone](https://www.youtube.com/watch?v=nF32W_gSHnQ)
