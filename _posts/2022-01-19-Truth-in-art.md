@@ -13,7 +13,7 @@ a kernel of philosophical truth, without one necessarily being able to put a fin
 
 I’ve always been interested in the “best” of pretty much every genre of art, rather than any given subject or genre itself.
 One of the intrinsic reasons for this was made apparent to me in [Jordan Peterson's Maps of Meaning lectures](https://www.youtube.com/watch?v=I8Xc2_FtpHI&list=PL22J3VaeABQAT-0aSPq-OKOpQlHyR4k5h), where
-he hypothesises that stories are exactly the way humans have been able to learn abstract concepts from time immemorial.
+he hypothesizes that stories are exactly the way humans have been able to learn abstract concepts from time immemorial.
 Any really good story, teaches us something important about ourselves, or our environment which we can use to grow ourselves.
 
 I want to stress that this list is highly subjective, as anything which touches someone deeply would be. I hope to keep
