@@ -41,6 +41,7 @@ I also hope to write a short summary of why I found a given piece important.
 * [Full Metal Alchemist: Brotherhood](https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood)
 * [Neon Genesis Evangelion](https://myanimelist.net/anime/30/Neon_Genesis_Evangelion)
 * [Death Note](https://myanimelist.net/anime/1535/Death_Note)
+* [Cosmos: A Personal Voyage](https://www.themoviedb.org/tv/1430-cosmos-a-personal-voyage)
 
 ### Books 
 
