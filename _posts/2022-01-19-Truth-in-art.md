@@ -25,7 +25,6 @@ I also hope to write a short summary of why I found a given piece important.
 * [The Phantom of the Opera at the Royal Albert Hall](https://www.themoviedb.org/movie/76115-the-phantom-of-the-opera-at-the-royal-albert-hall)
 
 ### Movies
-* [Parasite](https://www.themoviedb.org/movie/496243)
 * [The Dark Knight](https://www.themoviedb.org/movie/155-the-dark-knight)
 * [Grave of the Fireflies](https://www.themoviedb.org/movie/12477-hotaru-no-haka)
 
@@ -35,6 +34,7 @@ I also hope to write a short summary of why I found a given piece important.
 ### Music performances
 * [Monsters of Rock - Moscow 91'](https://en.wikipedia.org/wiki/For_Those_About_to_Rock:_Monsters_in_Moscow)
 * [X Japan - The Last Live](https://en.wikipedia.org/wiki/The_Last_Live_Video)
+* [Yanni Live! The Concert Event](https://www.imdb.com/title/tt0923999/)
 
 ### TV Series 
 * [Clannad: After Story](https://myanimelist.net/anime/4181/Clannad__After_Story)
