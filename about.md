@@ -17,8 +17,3 @@ my schedule was barren.
 I also really enjoy going to the gym to challenge myself, and keep the work-hazard of bodily decay
 somewhat at bay.
 
-#### Education
-I studied Japanese Language at University of Oslo and Computer engineering at College of Oslo and Akershus.
-
-#### Work
-Currently working at [Finn.no](https://www.finn.no) with recommendations using machine learning.
