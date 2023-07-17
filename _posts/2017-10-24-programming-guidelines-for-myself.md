@@ -36,4 +36,9 @@ we need to have a complete hierarchy to know with certainty how our program will
 9. Be conscious of the APIs you expose to consumers.... As you're stuck with them.
  (Or they will be painfully hard to change)
 
-For anyone reading, I would like to know what you feel are some good language-agnostic guidelines for programming! :)
+2023 Addendum:
+1. There should ideally only be one way of doing a given thing in the code-base.
+    * This means it's easier to maintain, and easier to change later.
+2. There shouldn't be more complexity in the solution, than there is in the problem you're solving.
+3. Make use of higher-order functions as ways to make your program testable and modular.
+    * I.e. instead of having a deeply nested if-statement in a function, rather pass that function another function it can execute so that the complexity of it is isolated closer to where you called the procedure.
