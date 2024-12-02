@@ -42,3 +42,47 @@ we need to have a complete hierarchy to know with certainty how our program will
 2. There shouldn't be more complexity in the solution, than there is in the problem you're solving.
 3. Make use of higher-order functions as ways to make your program testable and modular.
     * I.e. instead of having a deeply nested if-statement in a function, rather pass that function another function it can execute so that the complexity of it is isolated closer to where you called the procedure.
+
+2024 Addendum:
+1. You want to make your code composable. What do I mean by that? I mean code that we can easily combine with existing functionality, to make new functionality. This means that we should only have to implement the new code, without having to refactor your entire codebase to do so.
+
+An example of what I consider composable code:
+```scala
+trait Algorithm {
+   def recommend(user: UserId): MySortable => MySortable
+   def chain(a: Algorithm): Algorithm = (u: UserId) => {
+     val f1 = this.recommend(u)
+     val f2 = a.recommend(U)
+     (s: MySortable) => f2(f1(s))
+   }
+
+   def split(a: Algorithm, f: UserId => Boolean): Algorithm = (u: UserId) =>
+      if (f(u)) { a.recommend(u) }
+      else { this.recommend(u) }
+}
+
+given toAlgorithm: Conversion[UserId => MySortable => MySortable, Algorithm] with {
+   def apply(f: UserId => MySortable => MySortable): Algorithm = new Algorithm {
+   override def recommend(user: UserId): MySortable => MySortable = f(user)
+   }
+}
+// Can implement algorithms like this:
+def als(model: AlsRecommender)(user: UserId): MySortable => MySortable = { (s: MySortable) =>
+   model.recommendForUser(user, s.items.toSet).flatMap { modelResponses =>
+      s.copy(items = modelResponses)
+   }
+}
+
+def segmented(bandit: BanditModel, segmentSelector: AlsSegmentSelector[TvAlsSegment])(user: UserId): MySortable => MySortable = {
+      val banditSorter = BanditSorter(bandit, PositionPrior(40f), exploitOnly = false)
+      val segment = segmentSelector.getSegment(user)
+      (section: MySortable) => banditSorter.sort(section, segment, section.experiment)
+   }
+   
+// And then compose like this:
+band = segmented(thompsonBandit, tvAlsSegmentSelector)
+a = als(AlsRecommender(TvImplicit, cfModel))
+
+band.chain(a).split(band, (u: UserId) => u.age > 30).chain(a)
+// Adding new algorithms and combining them going forward is easy, as long as your function interface is somewhat standardized.
+```
