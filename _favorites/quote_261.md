@@ -1,0 +1,5 @@
+---
+text: >
+  "If you want to lift yourself up, lift up someone else." - Booker T. Washington
+type: quote
+---

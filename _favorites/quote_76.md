@@ -1,0 +1,5 @@
+---
+text: >
+  "Aim above morality. Be not simply good, be good for something." - Henry David Thoreau
+type: quote
+---

@@ -17,3 +17,5 @@ my schedule was barren.
 I also really enjoy going to the gym to challenge myself, and keep the work-hazard of bodily decay
 somewhat at bay.
 
+Interested parties can [take a look at my resume]({{ site.baseurl }}/cv.html)
+

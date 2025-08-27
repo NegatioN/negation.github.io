@@ -1,0 +1,5 @@
+---
+text: >
+  "No one saves us but ourselves. No one can and no one may. We ourselves must walk the path." - Paul Carus
+type: quote
+---
