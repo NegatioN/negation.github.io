@@ -1,5 +1,5 @@
 ---
 text: >
-  "Knowing what must be done does away with fear." - Rosa Parks
+  "Success is the ability to go from failure to failure without losing your enthusiasm." - Winston Churchill
 type: quote
 ---

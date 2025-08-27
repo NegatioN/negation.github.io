@@ -1,5 +1,5 @@
 ---
 text: >
-  "If you keep on doing what you've always done, you will keep getting what you've always gotten." - Unknown
+  "To accomplish great things, we must not only act, but also dream, not only plan, but also believe." - Anatole France
 type: quote
 ---

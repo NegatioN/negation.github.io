@@ -1,5 +1,5 @@
 ---
 text: >
-  "To accomplish great things, we must not only act, but also dream, not only plan, but also believe." - Anatole France
+  "The difference between ordinary and extraordinary is that little extra." - Jimmy Johnson
 type: quote
 ---

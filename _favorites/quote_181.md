@@ -1,5 +1,5 @@
 ---
 text: >
-  "One man or woman with courage is a majority." - Unknown
+  "Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself." - Rumi
 type: quote
 ---

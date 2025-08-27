@@ -1,5 +1,5 @@
 ---
 text: >
-  "Yesterday is history; tomorrow is a mystery. Today is a gift, which is why we call it the present." - Bil Keane
+  "You cannot protect yourself from sadness without protecting yourself from happiness." - Jonathan Safran Foer
 type: quote
 ---

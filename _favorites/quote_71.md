@@ -1,5 +1,5 @@
 ---
 text: >
-  "Your greatest dreams are all on the other side of the wall of fear and caution." - Unknown
+  "Give yourself permission to slow down. You can speed up by slowing down." - Gabby Bernstein
 type: quote
 ---

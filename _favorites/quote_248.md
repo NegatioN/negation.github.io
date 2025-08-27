@@ -1,5 +1,5 @@
 ---
 text: >
-  "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
+  "Look for the good in every person and every situation. You'll almost always find it." - Brian Tracy
 type: quote
 ---

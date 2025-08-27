@@ -1,5 +1,5 @@
 ---
 text: >
-  "Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself." - Rumi
+  "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
 type: quote
 ---

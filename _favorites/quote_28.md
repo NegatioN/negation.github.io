@@ -1,5 +1,5 @@
 ---
 text: >
-  "To be wronged is nothing unless you continue to remember it." - Confucius
+  "It's kind of fun to do the impossible." - Walt Disney
 type: quote
 ---

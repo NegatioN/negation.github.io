@@ -1,5 +1,5 @@
 ---
 text: >
-  "Fall seven times, stand up eight." - Proverb
+  "Change your thoughts and you change your world." - Norman Vincent Peale
 type: quote
 ---

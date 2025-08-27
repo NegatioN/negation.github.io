@@ -1,5 +1,5 @@
 ---
 text: >
-  "What simple action could you take today to produce a new momentum toward success in your life?" - Tony Robbins
+  "I would rather die of passion than of boredom." - Vincent Van Gogh
 type: quote
 ---

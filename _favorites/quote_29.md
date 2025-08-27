@@ -1,5 +1,5 @@
 ---
 text: >
-  "Every day is a new beginning, take a deep breath and start again." - Unknown
+  "When you’re curious, you find lots of interesting things to do." - Walt Disney
 type: quote
 ---

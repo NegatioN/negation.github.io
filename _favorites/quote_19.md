@@ -1,5 +1,5 @@
 ---
 text: >
-  "If you want to go fast, go alone. If you want to go far, bring others along." - Unknown
+  "Remember that wherever your heart is, there you will find your treasure." - Paulo Coelho
 type: quote
 ---

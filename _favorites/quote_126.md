@@ -1,5 +1,5 @@
 ---
 text: >
-  "Fall in love with the process and the results will follow." - Bradley Whitford
+  "Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that." - Martin Luther King Jr.
 type: quote
 ---

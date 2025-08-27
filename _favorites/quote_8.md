@@ -1,5 +1,5 @@
 ---
 text: >
-  "Try the impossible to show that it can be done." - Terry Fox
+  "Your level of success will seldom exceed your level of personal development." - Jim Rohn
 type: quote
 ---

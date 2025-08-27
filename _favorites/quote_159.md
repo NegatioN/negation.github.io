@@ -1,5 +1,5 @@
 ---
 text: >
-  "First they ignore you. Then they laugh at you. Then they fight you. Then you win." - Unknown
+  "Learning is a weightless treasure you can always carry easily." - Chinese Proverb
 type: quote
 ---

@@ -1,5 +1,5 @@
 ---
 text: >
-  "Success is the ability to go from failure to failure without losing your enthusiasm." - Winston Churchill
+  "What would you attempt to do if you knew you could not fail?" - Robert H. Schuller
 type: quote
 ---

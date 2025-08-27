@@ -1,5 +1,5 @@
 ---
 text: >
-  "Most people get ahead during the time that others waste." - Henry Ford
+  "I can accept failure. Everyone fails at something. But I can’t accept not trying." - Michael Jordan
 type: quote
 ---

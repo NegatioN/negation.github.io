@@ -1,5 +1,5 @@
 ---
 text: >
-  "Adventure is worthwhile in itself." - Amelia Earhart
+  "Do what you can, with what you have, where you are." - Theodore Roosevelt
 type: quote
 ---

@@ -1,5 +1,5 @@
 ---
 text: >
-  "It's not the daily increase but daily decrease. Hack away at the unessential." - Bruce Lee
+  "The past has no power over the present moment." - Eckhart Tolle
 type: quote
 ---

@@ -1,5 +1,5 @@
 ---
 text: >
-  "We ought to walk through the rooms of our lives not looking for flaws, but looking for potential." - Ellen Goodman
+  "Don't let yesterday use up too much of today." - Will Rogers
 type: quote
 ---

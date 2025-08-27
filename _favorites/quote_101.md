@@ -1,5 +1,5 @@
 ---
 text: >
-  "Whatever your goal in life, unless you develop a great urgency, what could be near will be far away." - Sadhguru
+  "Dude, suckin' at something is the first step to being sorta good at something." - Jake
 type: quote
 ---

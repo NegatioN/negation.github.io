@@ -1,5 +1,5 @@
 ---
 text: >
-  "The cure to boredom is curiosity. There is no cure for curiosity." - Dorothy Parker
+  "It's not the daily increase but daily decrease. Hack away at the unessential." - Bruce Lee
 type: quote
 ---

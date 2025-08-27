@@ -1,5 +1,5 @@
 ---
 text: >
-  "The privilege of a lifetime is being who you are." - Joseph Campbell
+  "Your value doesn't decrease based on someone's inability to see your worth." - Unknown
 type: quote
 ---

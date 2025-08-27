@@ -1,5 +1,5 @@
 ---
 text: >
-  "Sometimes good things fall apart so better things can fall together." - Marilyn Monroe
+  "Life is not a problem to be solved, but a reality to be experienced." - Soren Kierkegaard
 type: quote
 ---

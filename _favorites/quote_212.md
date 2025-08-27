@@ -1,5 +1,5 @@
 ---
 text: >
-  "Enjoy the little things, for one day you may look back and realize they were the big ones." - Robert Breault
+  "The important thing about a problem is not its solution, but the strength we gain in finding the solution." - Seneca
 type: quote
 ---

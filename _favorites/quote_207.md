@@ -1,5 +1,5 @@
 ---
 text: >
-  "Without forgiveness life is governed by an endless cycle of resentment and retaliation." - Roberto Assagioli
+  "When you judge others, you do not define them; you define yourself." - Earl Nightingale
 type: quote
 ---

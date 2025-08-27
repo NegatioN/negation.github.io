@@ -1,5 +1,5 @@
 ---
 text: >
-  "Anyone who stops learning is old." - Henry Ford
+  "The longer we dwell on our misfortunes, the greater is their power to harm us." - Voltaire
 type: quote
 ---

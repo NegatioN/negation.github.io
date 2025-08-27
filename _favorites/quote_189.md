@@ -1,5 +1,5 @@
 ---
 text: >
-  "Tact is the art of making a point without making an enemy." - Howard W. Newton
+  "It doesn't matter where you start. Only that you begin." - Robin Sharma
 type: quote
 ---

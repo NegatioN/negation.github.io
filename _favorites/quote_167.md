@@ -1,5 +1,5 @@
 ---
 text: >
-  "There are seven days in the week and someday isn't one of them." - Unknown
+  "There are no foreign lands. It is the traveler only who is foreign." - Robert Louis Stevenson
 type: quote
 ---

@@ -1,5 +1,5 @@
 ---
 text: >
-  "Give yourself permission to slow down. You can speed up by slowing down." - Gabby Bernstein
+  "Showing off is the fool's idea of glory." - Bruce Lee
 type: quote
 ---

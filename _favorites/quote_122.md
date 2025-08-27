@@ -1,5 +1,5 @@
 ---
 text: >
-  "It is more important to know where you are going than to get there quickly. Do not mistake activity for achievement." - Isocrates
+  "You cannot help the world to be a better place if you do not become a more conscious human being." - Sadhguru
 type: quote
 ---

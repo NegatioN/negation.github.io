@@ -1,5 +1,5 @@
 ---
 text: >
-  "Tough times don't last; tough people do." - Gregory Peck
+  "You will get all you want in life if you help enough other people get what they want." - Zig Ziglar
 type: quote
 ---

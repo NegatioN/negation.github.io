@@ -1,5 +1,5 @@
 ---
 text: >
-  "Be the one who decided to go for it." - Unknown
+  "Fear, uncertainty and discomfort are your compasses toward growth." - Unknown
 type: quote
 ---

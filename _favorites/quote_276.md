@@ -1,5 +1,5 @@
 ---
 text: >
-  "The way you tell your story to yourself matters." - Amy Cuddy
+  "What you do matters, but why you do it matters much more." - Unknown
 type: quote
 ---

@@ -1,5 +1,5 @@
 ---
 text: >
-  "Don't think about what might go wrong, think about what could be right." - Unknown
+  "Aim above morality. Be not simply good, be good for something." - Henry David Thoreau
 type: quote
 ---

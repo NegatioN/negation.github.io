@@ -1,5 +1,5 @@
 ---
 text: >
-  "In the midst of movement and chaos, keep stillness inside of you." - Deepak Chopra
+  "If you're not making mistakes, then you're not making decisions." - Catherine Cook
 type: quote
 ---

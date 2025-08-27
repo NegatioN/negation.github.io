@@ -1,5 +1,5 @@
 ---
 text: >
-  "No one has the power to shatter your dreams unless you give it to them." - Maeve Greyson
+  "Today I will do what others won't, so tomorrow I can do what others can't." - Jerry Rice
 type: quote
 ---

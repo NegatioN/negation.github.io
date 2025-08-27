@@ -1,5 +1,5 @@
 ---
 text: >
-  "Aim above morality. Be not simply good, be good for something." - Henry David Thoreau
+  "If you cannot find peace within yourself, you will never find it anywhere else." - Marvin Gaye
 type: quote
 ---

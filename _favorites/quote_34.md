@@ -1,5 +1,5 @@
 ---
 text: >
-  "It's kind of fun to do the impossible." - Walt Disney
+  "Life isn’t about finding yourself. Life is about creating yourself." - George Bernard Shaw
 type: quote
 ---

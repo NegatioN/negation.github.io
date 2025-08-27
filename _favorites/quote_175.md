@@ -1,5 +1,5 @@
 ---
 text: >
-  "The most difficult thing is the decision to act, the rest is merely tenacity." - Amelia Earhart
+  "Without forgiveness life is governed by an endless cycle of resentment and retaliation." - Roberto Assagioli
 type: quote
 ---

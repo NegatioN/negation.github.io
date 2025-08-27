@@ -1,5 +1,5 @@
 ---
 text: >
-  "Lower the cost of failure." - Unknown
+  "Courage is like a muscle. We strengthen it by use." - Ruth Gordon
 type: quote
 ---

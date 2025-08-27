@@ -1,5 +1,5 @@
 ---
 text: >
-  "Courage is like a muscle. We strengthen it by use." - Ruth Gordon
+  "The best time to plant a tree was 20 years ago. The second best time is now." - Chinese Proverb
 type: quote
 ---

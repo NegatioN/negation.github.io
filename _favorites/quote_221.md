@@ -1,5 +1,5 @@
 ---
 text: >
-  "You can be happy or you can be unhappy. It's just according to the way you look at things." - Walt Disney
+  "Spread love everywhere you go. Let no one ever come to you without leaving happier." - Mother Teresa
 type: quote
 ---

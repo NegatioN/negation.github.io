@@ -1,5 +1,5 @@
 ---
 text: >
-  "Difficult roads often lead to beautiful destinations." - Unknown
+  "Sometimes good things fall apart so better things can fall together." - Marilyn Monroe
 type: quote
 ---

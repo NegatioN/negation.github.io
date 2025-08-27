@@ -1,5 +1,5 @@
 ---
 text: >
-  "Let your hopes, not your hurts, shape your future." - Robert H. Schuller
+  "Do not fear the winds of adversity. Remember, a kite rises against the wind rather than with it." - Unknown
 type: quote
 ---

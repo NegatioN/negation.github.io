@@ -1,5 +1,5 @@
 ---
 text: >
-  "A goal is not always meant to be reached, it often serves simply as something to aim at." - Bruce Lee
+  "To be upset over what you don't have is to waste what you do have." - Unknown
 type: quote
 ---

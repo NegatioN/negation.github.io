@@ -1,5 +1,5 @@
 ---
 text: >
-  "The death of a dream is the day that you stop believing in the work it takes to get there." - Chris Burkmenn
+  "As you start to walk out on the way, the way appears." - Rumi
 type: quote
 ---

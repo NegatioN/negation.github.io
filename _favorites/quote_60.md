@@ -1,5 +1,5 @@
 ---
 text: >
-  "Learn to enjoy every minute of your life. Be happy now. Don't wait for something outside of yourself to make you happy in the future." - Earl Nightingale
+  "You can, you should, and if you’re brave enough to start, you will." - Stephen King
 type: quote
 ---

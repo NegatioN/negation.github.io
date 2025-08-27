@@ -1,5 +1,5 @@
 ---
 text: >
-  "Today I will do what others won't, so tomorrow I can do what others can't." - Jerry Rice
+  "The way you tell your story to yourself matters." - Amy Cuddy
 type: quote
 ---

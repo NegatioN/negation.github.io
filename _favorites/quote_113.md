@@ -1,5 +1,5 @@
 ---
 text: >
-  "There is nothing so useless as doing efficiently that which should not be done at all." - Peter Drucker
+  "Fall in love with the process and the results will follow." - Bradley Whitford
 type: quote
 ---

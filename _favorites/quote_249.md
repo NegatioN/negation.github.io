@@ -1,5 +1,5 @@
 ---
 text: >
-  "Keep moving forward. One step at a time." - Unknown
+  "The only way to do great work is to love the work you do." - Steve Jobs
 type: quote
 ---

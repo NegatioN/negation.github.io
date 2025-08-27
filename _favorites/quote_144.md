@@ -1,5 +1,5 @@
 ---
 text: >
-  "Victory is sweetest when you've known defeat." - Malcolm Forbes
+  "By doing what you love you inspire and awaken the hearts of others." - Satsuki Shibuya
 type: quote
 ---

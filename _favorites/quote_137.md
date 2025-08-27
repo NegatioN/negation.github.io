@@ -1,5 +1,5 @@
 ---
 text: >
-  "We may encounter many defeats but we must not be defeated." - Maya Angelou
+  "Much of the best work of the world has been done against seeming impossibilities." - Dale Carnegie
 type: quote
 ---

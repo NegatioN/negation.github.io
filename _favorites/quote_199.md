@@ -1,5 +1,5 @@
 ---
 text: >
-  "There are no foreign lands. It is the traveler only who is foreign." - Robert Louis Stevenson
+  "Fear does not prevent death. It prevents life." - Naguib Mahfouz
 type: quote
 ---

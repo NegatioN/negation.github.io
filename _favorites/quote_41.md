@@ -1,5 +1,5 @@
 ---
 text: >
-  "Life isn’t about finding yourself. Life is about creating yourself." - George Bernard Shaw
+  "If you want to look good in front of thousands, you have to outwork thousands in front of nobody." - Damian Lillard
 type: quote
 ---

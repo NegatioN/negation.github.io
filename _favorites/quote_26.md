@@ -1,5 +1,5 @@
 ---
 text: >
-  "Vulnerability sounds like truth, and feels like courage. Truth and courage aren't always comfortable, but they're never weakness." - Brené Brown
+  "A goal is not always meant to be reached, it often serves simply as something to aim at." - Bruce Lee
 type: quote
 ---

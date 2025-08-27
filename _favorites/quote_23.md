@@ -1,5 +1,5 @@
 ---
 text: >
-  "Remember that wherever your heart is, there you will find your treasure." - Paulo Coelho
+  "To be wronged is nothing unless you continue to remember it." - Confucius
 type: quote
 ---

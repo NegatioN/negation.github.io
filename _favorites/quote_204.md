@@ -1,5 +1,5 @@
 ---
 text: >
-  "I would rather die of passion than of boredom." - Vincent Van Gogh
+  "If you never did, you should. These things are fun and fun is good." - Dr. Seuss
 type: quote
 ---

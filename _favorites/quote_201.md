@@ -1,5 +1,5 @@
 ---
 text: >
-  "You have power over your mind, not outside events. Realize this, and you will find strength." - Marcus Aurelius
+  "The best way to find out if you can trust somebody is to trust them." - Ernest Hemingway
 type: quote
 ---

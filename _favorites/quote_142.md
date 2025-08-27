@@ -1,5 +1,5 @@
 ---
 text: >
-  "The surest way to find your dream job is to create it." - Unknown
+  "There are seven days in the week and someday isn't one of them." - Unknown
 type: quote
 ---

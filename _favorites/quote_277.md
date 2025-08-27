@@ -1,5 +1,5 @@
 ---
 text: >
-  "Courage doesn't always roar. Sometimes courage is the quiet voice at the end of the day whispering, 'I will try again tomorrow.'" - Mary Anne Radmacher
+  "Most people quit because they look how far they have to go, not how far they have come." - Anonymous
 type: quote
 ---

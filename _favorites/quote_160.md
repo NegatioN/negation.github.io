@@ -1,5 +1,5 @@
 ---
 text: >
-  "Much of the best work of the world has been done against seeming impossibilities." - Dale Carnegie
+  "We ought to walk through the rooms of our lives not looking for flaws, but looking for potential." - Ellen Goodman
 type: quote
 ---

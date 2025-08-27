@@ -1,5 +1,5 @@
 ---
 text: >
-  "Don't limit your challengeschallenge your limits." - Unknown
+  "First they ignore you. Then they laugh at you. Then they fight you. Then you win." - Unknown
 type: quote
 ---

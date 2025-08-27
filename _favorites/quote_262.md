@@ -1,5 +1,5 @@
 ---
 text: >
-  "The meaning of life is to find your gift. The purpose of life is to give it away." - David Viscott
+  "The way to get started is to quit talking and begin doing." - Walt Disney
 type: quote
 ---

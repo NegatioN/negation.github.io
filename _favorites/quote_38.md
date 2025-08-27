@@ -1,5 +1,5 @@
 ---
 text: >
-  "There is real magic in enthusiasm. It spells the difference between mediocrity and accomplishment." - Norman Vincent Peale
+  "Experience is simply the name we give our mistakes." - Oscar Wilde
 type: quote
 ---

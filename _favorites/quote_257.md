@@ -1,5 +1,5 @@
 ---
 text: >
-  "Your value doesn't decrease based on someone's inability to see your worth." - Unknown
+  "Awareness is the greatest agent for change." - Eckhart Tolle
 type: quote
 ---

@@ -1,5 +1,5 @@
 ---
 text: >
-  "You are confined only by the walls you build yourself." - Andrew Murphy
+  "Expect great things, and great things will come." - Norman Vincent Peale
 type: quote
 ---

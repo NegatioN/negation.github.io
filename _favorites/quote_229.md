@@ -1,5 +1,5 @@
 ---
 text: >
-  "If we did all the things we are capable of, we would literally astound ourselves." - Thomas Edison
+  "Rules for happiness: something to do, someone to love, something to hope for." - Immanuel Kant
 type: quote
 ---

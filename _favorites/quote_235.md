@@ -1,5 +1,5 @@
 ---
 text: >
-  "The best teachers are those who show you where to look, but don't tell you what to see." - Alexandra K. Trenfor
+  "Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world." - Albert Einstein
 type: quote
 ---

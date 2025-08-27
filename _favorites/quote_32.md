@@ -1,5 +1,5 @@
 ---
 text: >
-  "If you wish to travel far and fast, travel light. Take off all your envies, jealousies, unforgiveness, selfishness, and fears." - Glenn Clark
+  "There is real magic in enthusiasm. It spells the difference between mediocrity and accomplishment." - Norman Vincent Peale
 type: quote
 ---

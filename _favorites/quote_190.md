@@ -1,5 +1,5 @@
 ---
 text: >
-  "Your dreams can take you much higher and much farther than anyone ever thought possible." - Buzz Aldrin
+  "Today's accomplishments were yesterday's impossibilities." - Robert Schuller
 type: quote
 ---

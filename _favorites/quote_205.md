@@ -1,5 +1,5 @@
 ---
 text: >
-  "What would you attempt to do if you knew you could not fail?" - Robert H. Schuller
+  "Let us make our future now, and let us make our dreams tomorrow's reality." - Malala Yousafzai
 type: quote
 ---

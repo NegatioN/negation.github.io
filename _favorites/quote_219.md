@@ -1,5 +1,5 @@
 ---
 text: >
-  "Choose a job you love and you will never have to work a day of your life." - Unknown
+  "Trust yourself. You know more than you think you do." - Benjamin Spock
 type: quote
 ---

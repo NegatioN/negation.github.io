@@ -1,5 +1,5 @@
 ---
 text: >
-  "It's not about where your starting point is, but your end goal and the journey that will get you there." - Unknown
+  "Speak in such a way that others love to listen to you. Listen in such a way that others love to speak to you." - Unknown
 type: quote
 ---

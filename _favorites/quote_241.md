@@ -1,5 +1,5 @@
 ---
 text: >
-  "No matter how bad or slow things go, you're still way ahead of everyone who isn't even trying." - Tony Robbins
+  "Always be yourself, express yourself, have faith in yourself. Do not go out and look for a successful personality and duplicate it." - Bruce Lee
 type: quote
 ---

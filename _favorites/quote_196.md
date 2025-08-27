@@ -1,5 +1,5 @@
 ---
 text: >
-  "There are two ways of spreading light: to be the candle or the mirror that reflects it." - Edith Wharton
+  "Believe in your infinite potential. Your only limitations are those you set upon yourself." - Roy T. Bennett
 type: quote
 ---

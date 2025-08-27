@@ -1,5 +1,5 @@
 ---
 text: >
-  "Trust yourself. You know more than you think you do." - Benjamin Spock
+  "No matter how hard the past, you can always begin again." - Jack Kornfield
 type: quote
 ---

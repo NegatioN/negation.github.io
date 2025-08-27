@@ -1,5 +1,5 @@
 ---
 text: >
-  "Experience is simply the name we give our mistakes." - Oscar Wilde
+  "Fear of life closes off more opportunities for us than fear of death ever does." - Agnes Moorehead
 type: quote
 ---

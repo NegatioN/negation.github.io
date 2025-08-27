@@ -1,5 +1,5 @@
 ---
 text: >
-  "Have enough courage to trust love one more time and always one more time." - Maya Angelou
+  "Since you make evil or good by your own thoughts, it is your ruling of your thoughts which proves to be your principal concern." - William James
 type: quote
 ---

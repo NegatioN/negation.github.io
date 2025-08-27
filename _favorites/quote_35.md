@@ -1,5 +1,5 @@
 ---
 text: >
-  "When you’re curious, you find lots of interesting things to do." - Walt Disney
+  "The best way out is always through." - Robert Frost
 type: quote
 ---

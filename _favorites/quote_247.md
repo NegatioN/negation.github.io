@@ -1,5 +1,5 @@
 ---
 text: >
-  "The important thing about a problem is not its solution, but the strength we gain in finding the solution." - Seneca
+  "The best way to predict the future is to invent it." - Alan Kay
 type: quote
 ---

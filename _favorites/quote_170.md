@@ -1,5 +1,5 @@
 ---
 text: >
-  "A head full of fears has no space for dreams." - Unknown
+  "No one has the power to shatter your dreams unless you give it to them." - Maeve Greyson
 type: quote
 ---

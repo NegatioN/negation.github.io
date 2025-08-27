@@ -1,5 +1,5 @@
 ---
 text: >
-  "If you can, help others; if you cannot do that, at least do not harm them." - Dalai Lama
+  "When you see a person without a smile, give them one of yours." - Zig Ziglar
 type: quote
 ---

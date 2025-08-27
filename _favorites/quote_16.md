@@ -1,5 +1,5 @@
 ---
 text: >
-  "Balance is not something you find, it's something you create." - Jana Kingsford
+  "Nothing will bring you peace, you must bring yourself to it." - Gant Laborde
 type: quote
 ---

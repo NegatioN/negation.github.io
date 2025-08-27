@@ -1,5 +1,5 @@
 ---
 text: >
-  "Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world." - Albert Einstein
+  "If you can dream it, you can do it." - Walt Disney
 type: quote
 ---

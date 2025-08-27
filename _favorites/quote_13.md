@@ -1,5 +1,5 @@
 ---
 text: >
-  "Failure is just practice for success." - Unknown
+  "Always walk through life as if you have something new to learn and you will." - Vernon Howard
 type: quote
 ---

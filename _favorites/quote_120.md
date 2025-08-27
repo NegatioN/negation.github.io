@@ -1,5 +1,5 @@
 ---
 text: >
-  "Be weird. Your strangeness is your magic." - Parker Lewis
+  "Sometimes it is not enough to do our best; we must do what is required." - Winston Churchill
 type: quote
 ---

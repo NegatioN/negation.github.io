@@ -1,5 +1,5 @@
 ---
 text: >
-  "Progress lies not in enhancing what is, but in advancing toward what will be." - Khalil Gibran
+  "Make the most of yourself, for that is all there is of you." - Ralph Waldo Emerson
 type: quote
 ---

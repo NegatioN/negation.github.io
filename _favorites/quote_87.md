@@ -1,5 +1,5 @@
 ---
 text: >
-  "Step out of the history that is holding you back. Step into the new story you are willing to create." - Oprah Winfrey
+  "Every morning we are born again. What we do today is what matters most." - Buddha
 type: quote
 ---

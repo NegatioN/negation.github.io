@@ -1,5 +1,5 @@
 ---
 text: >
-  "Forgive yourself for your faults and your mistakes and move on." - Les Brown
+  "Spend more time smiling than frowning and more time praising than criticizing." - Richard Branson
 type: quote
 ---

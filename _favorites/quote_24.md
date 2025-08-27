@@ -1,5 +1,5 @@
 ---
 text: >
-  "Never underestimate the ability of a small group of dedicated people to change the world. Indeed, it is the only thing that ever has." - Margaret Mead
+  "Every day is a new beginning, take a deep breath and start again." - Unknown
 type: quote
 ---

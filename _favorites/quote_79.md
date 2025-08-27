@@ -1,5 +1,5 @@
 ---
 text: >
-  "Don't allow your rituals to become ruts." - Todd Henry
+  "Patience and perseverance have a magical effect before which difficulties disappear and obstacles vanish." - John Quincy Adams
 type: quote
 ---

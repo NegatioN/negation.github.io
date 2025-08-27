@@ -1,5 +1,5 @@
 ---
 text: >
-  "It's not the years in your life that count. It's the life in your years." - Edward J. Stieglitz
+  "If you keep on doing what you've always done, you will keep getting what you've always gotten." - Unknown
 type: quote
 ---

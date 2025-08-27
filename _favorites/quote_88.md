@@ -1,5 +1,5 @@
 ---
 text: >
-  "Patience and perseverance have a magical effect before which difficulties disappear and obstacles vanish." - John Quincy Adams
+  "The journey of a thousand miles begins with a single step." - Lao Tzu
 type: quote
 ---

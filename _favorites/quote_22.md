@@ -1,5 +1,5 @@
 ---
 text: >
-  "This is your life. Do what you love, and do it often." - Holstee Manifesto
+  "Vulnerability sounds like truth, and feels like courage. Truth and courage aren't always comfortable, but they're never weakness." - Brené Brown
 type: quote
 ---

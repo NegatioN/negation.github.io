@@ -1,5 +1,5 @@
 ---
 text: >
-  "Respect yourself enough to walk away from anything that no longer serves you, grows you, or makes you happy." - Robert Tew
+  "I have not failed. I've just found 10,000 ways that won't work." - Thomas Edison
 type: quote
 ---

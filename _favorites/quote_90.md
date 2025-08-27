@@ -1,5 +1,5 @@
 ---
 text: >
-  "If you want to be happy, set a goal that commands your thoughts, liberates your energy, and inspires your hopes." - Andrew Carnegie
+  "Don't sit down and wait for the opportunities to come. Get up and make them." - Madam C. J. Walker
 type: quote
 ---

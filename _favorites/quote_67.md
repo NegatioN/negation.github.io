@@ -1,5 +1,5 @@
 ---
 text: >
-  "You can, you should, and if you’re brave enough to start, you will." - Stephen King
+  "The secret of getting ahead is getting started." - Mark Twain
 type: quote
 ---

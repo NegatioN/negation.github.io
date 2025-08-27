@@ -1,5 +1,5 @@
 ---
 text: >
-  "What a person can be, they must be." - Abraham Maslow
+  "If you can, help others; if you cannot do that, at least do not harm them." - Dalai Lama
 type: quote
 ---

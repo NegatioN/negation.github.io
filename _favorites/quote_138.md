@@ -1,5 +1,5 @@
 ---
 text: >
-  "You cannot help the world to be a better place if you do not become a more conscious human being." - Sadhguru
+  "If one dream should fall and break into a thousand pieces, never be afraid to pick one of those pieces up and begin again." - Flavia Weedn
 type: quote
 ---

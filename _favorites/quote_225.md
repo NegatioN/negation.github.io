@@ -1,5 +1,5 @@
 ---
 text: >
-  "There is no small act of kindness. Every compassionate act makes large the world." - Mary Anne Radmacher
+  "The meaning of life is to find your gift. The purpose of life is to give it away." - David Viscott
 type: quote
 ---

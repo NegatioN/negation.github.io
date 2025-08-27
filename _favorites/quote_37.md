@@ -1,5 +1,5 @@
 ---
 text: >
-  "To be upset over what you don't have is to waste what you do have." - Unknown
+  "Quality time off, leads to quality time on." - Max Klein
 type: quote
 ---

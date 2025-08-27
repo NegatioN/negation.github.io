@@ -1,5 +1,5 @@
 ---
 text: >
-  "When you judge others, you do not define them; you define yourself." - Earl Nightingale
+  "Be kind whenever possible. It is always possible." - Dalai Lama
 type: quote
 ---

@@ -1,5 +1,5 @@
 ---
 text: >
-  "All great achievements require time." - Maya Angelou
+  "Adopt the pace of nature, her secret is patience." - Ralph Emerson
 type: quote
 ---

@@ -1,5 +1,5 @@
 ---
 text: >
-  "If you stumble make it part of the dance." - Unknown
+  "Simplicity is the ultimate sophistication." - Leonardo da Vinci
 type: quote
 ---

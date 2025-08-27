@@ -1,5 +1,5 @@
 ---
 text: >
-  "Be an encourager, the world has enough critics already." - Unknown
+  "Don't let yesterday take up too much of today." - Will Rogers
 type: quote
 ---

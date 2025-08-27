@@ -1,5 +1,5 @@
 ---
 text: >
-  "Laughter is the shortest distance between two people." - Victor Borge
+  "To escape criticism: do nothing, say nothing, be nothing." - Elbert Hubbard
 type: quote
 ---

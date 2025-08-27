@@ -1,5 +1,5 @@
 ---
 text: >
-  "The secret to your success is found in your daily routine." - John C. Maxwell
+  "An investment in knowledge pays the best interest." - Benjamin Franklin
 type: quote
 ---

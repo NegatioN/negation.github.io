@@ -1,5 +1,5 @@
 ---
 text: >
-  "If you are always trying to be normal you will never know how amazing you can be." - Maya Angelou
+  "We may encounter many defeats but we must not be defeated." - Maya Angelou
 type: quote
 ---

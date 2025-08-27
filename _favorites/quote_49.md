@@ -1,5 +1,5 @@
 ---
 text: >
-  "Take care of your body. It’s the only place you have to live." - Jim Rohn
+  "Dare to live the life you have dreamed for yourself. Go forward and make your dreams come true." - Ralph Waldo Emerson
 type: quote
 ---

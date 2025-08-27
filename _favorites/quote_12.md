@@ -1,5 +1,5 @@
 ---
 text: >
-  "The mind, once stretched by a new idea, never regains its original dimensions." - Oliver Wendell Holmes
+  "It's a job that's never started that takes the longest to finish." - J.R.R. Tolkien
 type: quote
 ---

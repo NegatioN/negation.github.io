@@ -1,5 +1,5 @@
 ---
 text: >
-  "Light tomorrow with today." - Elizabeth Barrett Browning
+  "Be an encourager, the world has enough critics already." - Unknown
 type: quote
 ---

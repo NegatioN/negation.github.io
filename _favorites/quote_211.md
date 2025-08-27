@@ -1,5 +1,5 @@
 ---
 text: >
-  "So many of our dreams at first seem impossible. Then they seem improbable. And then, when we summon the will, they soon become inevitable." - Christopher Reeve
+  "Happiness is a way of travel. Not a destination." - Roy Goodman
 type: quote
 ---

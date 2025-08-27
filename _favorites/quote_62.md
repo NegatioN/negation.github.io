@@ -1,5 +1,5 @@
 ---
 text: >
-  "Since you make evil or good by your own thoughts, it is your ruling of your thoughts which proves to be your principal concern." - William James
+  "Don't think about what might go wrong, think about what could be right." - Unknown
 type: quote
 ---

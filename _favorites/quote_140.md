@@ -1,5 +1,5 @@
 ---
 text: >
-  "Adopt the pace of nature, her secret is patience." - Ralph Emerson
+  "There is no person living who isn't capable of doing more than they think they can do." - Henry Ford
 type: quote
 ---

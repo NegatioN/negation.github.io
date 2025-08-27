@@ -1,5 +1,5 @@
 ---
 text: >
-  "The best way to find out if you can trust somebody is to trust them." - Ernest Hemingway
+  "If you are still looking for that one person who will change your life, take a look in the mirror." - Roman Price
 type: quote
 ---

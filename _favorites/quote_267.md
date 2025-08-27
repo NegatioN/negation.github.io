@@ -1,5 +1,5 @@
 ---
 text: >
-  "You can't be paralyzed by fear of failure or you will never push yourself." - Arnold Schwarzenegger
+  "Worrying does not take away tomorrow's troubles, it takes away today's peace." - Unknown
 type: quote
 ---

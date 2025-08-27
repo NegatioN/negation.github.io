@@ -1,5 +1,5 @@
 ---
 text: >
-  "Rise above the storm and you will find the sunshine." - Mario Fernandez
+  "A good listener is one who helps us overhear ourselves." - Yahia Lababidi
 type: quote
 ---

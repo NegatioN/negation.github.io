@@ -1,5 +1,5 @@
 ---
 text: >
-  "If my mind can conceive it and my heart can believe it, then I can achieve it." - Muhammad Ali
+  "Discipline is the bridge between goals and accomplishment" - Jim Rohn
 type: quote
 ---

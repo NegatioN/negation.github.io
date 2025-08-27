@@ -1,5 +1,5 @@
 ---
 text: >
-  "When you see a person without a smile, give them one of yours." - Zig Ziglar
+  "Don't allow your rituals to become ruts." - Todd Henry
 type: quote
 ---

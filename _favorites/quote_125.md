@@ -1,5 +1,5 @@
 ---
 text: >
-  "We tend to judge others by their behavior, and ourselves by our intentions." - Unknown
+  "Victory is sweetest when you've known defeat." - Malcolm Forbes
 type: quote
 ---

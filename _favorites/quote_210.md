@@ -1,5 +1,5 @@
 ---
 text: >
-  "Someone who thinks the world is always cheating them is right. They are missing that wonderful feeling of trust in someone or something." - Eric Hoffer
+  "Enjoy the little things, for one day you may look back and realize they were the big things." - Robert Brault
 type: quote
 ---

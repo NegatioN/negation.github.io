@@ -1,5 +1,5 @@
 ---
 text: >
-  "Know your limits but never stop trying to exceed them." - Unknown
+  "The cure to boredom is curiosity. There is no cure for curiosity." - Dorothy Parker
 type: quote
 ---

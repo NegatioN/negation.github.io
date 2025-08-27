@@ -1,5 +1,5 @@
 ---
 text: >
-  "If one dream should fall and break into a thousand pieces, never be afraid to pick one of those pieces up and begin again." - Flavia Weedn
+  "If you want to make your dreams come true, the first thing you have to do is wake up." - J.M. Power
 type: quote
 ---

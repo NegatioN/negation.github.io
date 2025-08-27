@@ -1,5 +1,5 @@
 ---
 text: >
-  "Let go of the thoughts that don't make you strong." - Unknown
+  "Progress lies not in enhancing what is, but in advancing toward what will be." - Khalil Gibran
 type: quote
 ---

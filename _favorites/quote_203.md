@@ -1,5 +1,5 @@
 ---
 text: >
-  "An amateur practices until they can play it correctly, a professional practices until they can't play it incorrectly." - Unknown
+  "Change may not always bring growth, but there is no growth without change." - Roy T. Bennett
 type: quote
 ---

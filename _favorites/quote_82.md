@@ -1,5 +1,5 @@
 ---
 text: >
-  "Happiness is not something you postpone for the future; it is something you design for the present." - Jim Rohn
+  "Talent is a pursued interest. Anything that you're willing to practice, you can do." - Bob Ross
 type: quote
 ---

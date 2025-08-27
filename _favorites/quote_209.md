@@ -1,5 +1,5 @@
 ---
 text: >
-  "Discipline is the bridge between goals and accomplishment" - Jim Rohn
+  "While we are postponing, life speeds by." - Seneca
 type: quote
 ---

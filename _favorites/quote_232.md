@@ -1,5 +1,5 @@
 ---
 text: >
-  "What makes you different or weird—that’s your strength." - Meryl Streep
+  "At the end of the day, we can endure much more than we think we can." - Frida Kahlo
 type: quote
 ---

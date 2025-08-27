@@ -1,5 +1,5 @@
 ---
 text: >
-  "Hard work beats talent when talent fails to work hard." - Tim Notke
+  "Start where you are. Use what you have. Do what you can." - Arthur Ashe
 type: quote
 ---

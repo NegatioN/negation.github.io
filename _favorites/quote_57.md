@@ -1,5 +1,5 @@
 ---
 text: >
-  "If you want to find happiness, find gratitude." - Steve Maraboli
+  "It is no measure of health to be well adjusted to a profoundly sick society." - J. Krishnamurti
 type: quote
 ---

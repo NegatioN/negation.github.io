@@ -1,5 +1,5 @@
 ---
 text: >
-  "Let us make our future now, and let us make our dreams tomorrow's reality." - Malala Yousafzai
+  "Respect yourself enough to walk away from anything that no longer serves you, grows you, or makes you happy." - Robert Tew
 type: quote
 ---

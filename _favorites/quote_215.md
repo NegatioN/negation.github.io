@@ -1,5 +1,5 @@
 ---
 text: >
-  "Change your thoughts and you change your world." - Norman Vincent Peale
+  "You are stronger than your challenges and your challenges are making you stronger." - Karen Salmansohn
 type: quote
 ---

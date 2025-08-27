@@ -1,5 +1,5 @@
 ---
 text: >
-  "Life is not a problem to be solved, but a reality to be experienced." - Soren Kierkegaard
+  "If my mind can conceive it and my heart can believe it, then I can achieve it." - Muhammad Ali
 type: quote
 ---

@@ -1,5 +1,5 @@
 ---
 text: >
-  "The difference between ordinary and extraordinary is that little extra." - Jimmy Johnson
+  "The beginning is always today." - Mary Wollstonecraft
 type: quote
 ---

@@ -1,5 +1,5 @@
 ---
 text: >
-  "The struggle ends when the gratitude begins." - Neale Donald Walsch
+  "Light tomorrow with today." - Elizabeth Barrett Browning
 type: quote
 ---

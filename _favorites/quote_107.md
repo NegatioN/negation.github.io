@@ -1,5 +1,5 @@
 ---
 text: >
-  "The thing that is really hard, and really amazing, is giving up on being perfect and beginning the work of becoming yourself." - Anna Quindlen
+  "Be weird. Your strangeness is your magic." - Parker Lewis
 type: quote
 ---

@@ -1,5 +1,5 @@
 ---
 text: >
-  "If you don't like the road you're walking, start paving another one." - Dolly Parton
+  "If you are always trying to be normal you will never know how amazing you can be." - Maya Angelou
 type: quote
 ---

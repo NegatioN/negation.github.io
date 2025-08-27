@@ -1,5 +1,5 @@
 ---
 text: >
-  "People may hear your words, but they feel your attitude." - John C. Maxwell
+  "If you don't prioritize your life, someone else will." - Greg McKeown
 type: quote
 ---

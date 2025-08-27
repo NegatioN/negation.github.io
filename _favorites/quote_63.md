@@ -1,5 +1,5 @@
 ---
 text: >
-  "The mind is everything. What you think you become." - Buddha
+  "People may hear your words, but they feel your attitude." - John C. Maxwell
 type: quote
 ---

@@ -1,5 +1,5 @@
 ---
 text: >
-  "If you want to make your dreams come true, the first thing you have to do is wake up." - J.M. Power
+  "Daily ripples of excellence over time become a tsunami of success." - Robin S. Sharma
 type: quote
 ---

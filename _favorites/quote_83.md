@@ -1,5 +1,5 @@
 ---
 text: >
-  "Whatever you're meant to do, do it now. The conditions are always impossible." - Doris Lessing
+  "If you stumble make it part of the dance." - Unknown
 type: quote
 ---

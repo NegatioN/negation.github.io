@@ -1,5 +1,5 @@
 ---
 text: >
-  "Sometimes life hits you in the head with a brick. Don't lose faith." - Steve Jobs
+  "Be careful how you are talking to yourself because you are listening." - Lisa M. Hayes
 type: quote
 ---

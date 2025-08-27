@@ -1,5 +1,5 @@
 ---
 text: >
-  "Expect great things, and great things will come." - Norman Vincent Peale
+  "The struggles you endure today will be the ‘good old days’ you’ll laugh about tomorrow." - Aaron Lauritsen
 type: quote
 ---

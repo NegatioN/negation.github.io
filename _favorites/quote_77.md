@@ -1,5 +1,5 @@
 ---
 text: >
-  "If you don't prioritize your life, someone else will." - Greg McKeown
+  "Anyone who stops learning is old." - Henry Ford
 type: quote
 ---

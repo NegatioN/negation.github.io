@@ -1,5 +1,5 @@
 ---
 text: >
-  "Until you cross the bridge of your insecurities, you can't begin to explore your possibilities." - Tim Fargo
+  "There is virtue in work and there is virtue in rest. Use both and overlook neither." - Alan Cohen
 type: quote
 ---

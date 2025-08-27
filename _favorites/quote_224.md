@@ -1,5 +1,5 @@
 ---
 text: >
-  "Today's accomplishments were yesterday's impossibilities." - Robert Schuller
+  "If you want to lift yourself up, lift up someone else." - Booker T. Washington
 type: quote
 ---

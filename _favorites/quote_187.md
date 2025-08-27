@@ -1,5 +1,5 @@
 ---
 text: >
-  "Life is a succession of lessons which must be lived to be understood." - Ralph Waldo Emerson
+  "The privilege of a lifetime is being who you are." - Joseph Campbell
 type: quote
 ---

@@ -1,5 +1,5 @@
 ---
 text: >
-  "The past is done. The future has plenty of room for change." - Anonymous
+  "Outer order contributes to inner calm." - Gretchen Rubin
 type: quote
 ---

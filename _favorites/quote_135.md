@@ -1,5 +1,5 @@
 ---
 text: >
-  "Sometimes it is not enough to do our best; we must do what is required." - Winston Churchill
+  "Your relationship with yourself sets the tone for every other relationship you have." - Robert Holden
 type: quote
 ---

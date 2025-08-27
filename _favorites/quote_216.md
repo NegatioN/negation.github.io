@@ -1,5 +1,5 @@
 ---
 text: >
-  "What do you do with a mistake: recognize it, admit it, learn from it, forget it." - Dean Smith
+  "Simple can be harder than complex. You have to work hard to get your thinking clean to make it simple. But it’s worth it in the end, because once you get there you can move mountains." - Steve Jobs
 type: quote
 ---

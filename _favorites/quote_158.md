@@ -1,5 +1,5 @@
 ---
 text: >
-  "Your relationship with yourself sets the tone for every other relationship you have." - Robert Holden
+  "Your dreams can take you much higher and much farther than anyone ever thought possible." - Buzz Aldrin
 type: quote
 ---

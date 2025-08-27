@@ -1,5 +1,5 @@
 ---
 text: >
-  "Believe in your infinite potential. Your only limitations are those you set upon yourself." - Roy T. Bennett
+  "A positive attitude causes a chain reaction of positive thoughts, events, and outcomes." - Wade Boggs
 type: quote
 ---

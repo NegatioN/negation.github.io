@@ -1,5 +1,5 @@
 ---
 text: >
-  "Dude, suckin' at something is the first step to being sorta good at something." - Jake
+  "Nothing is so fatiguing as the eternal hanging on of an uncompleted task." - William James
 type: quote
 ---

@@ -1,5 +1,5 @@
 ---
 text: >
-  "Peace in the world is everybody's business, no matter where you live or what you do." - Betty Williams
+  "Life is a succession of lessons which must be lived to be understood." - Ralph Waldo Emerson
 type: quote
 ---

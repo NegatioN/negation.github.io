@@ -1,5 +1,5 @@
 ---
 text: >
-  "Happiness is not the absence of problems, it's the ability to deal with them." - Unknown
+  "We tend to judge others by their behavior, and ourselves by our intentions." - Unknown
 type: quote
 ---

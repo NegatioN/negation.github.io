@@ -1,5 +1,5 @@
 ---
 text: >
-  "Life has no limitations, except the ones you make." - Les Brown
+  "It’s easier to ask forgiveness than ask permission." - Grace Hopper
 type: quote
 ---

@@ -1,5 +1,5 @@
 ---
 text: >
-  "You cannot protect yourself from sadness without protecting yourself from happiness." - Jonathan Safran Foer
+  "What makes you different or weird—that’s your strength." - Meryl Streep
 type: quote
 ---

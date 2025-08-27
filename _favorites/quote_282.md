@@ -1,5 +1,5 @@
 ---
 text: >
-  "Be kind whenever possible. It is always possible." - Dalai Lama
+  "Everything you can imagine is real." - Pablo Picasso
 type: quote
 ---

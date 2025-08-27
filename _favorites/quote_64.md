@@ -1,5 +1,5 @@
 ---
 text: >
-  "It is no measure of health to be well adjusted to a profoundly sick society." - J. Krishnamurti
+  "Your greatest dreams are all on the other side of the wall of fear and caution." - Unknown
 type: quote
 ---

@@ -1,5 +1,5 @@
 ---
 text: >
-  "Your level of success will seldom exceed your level of personal development." - Jim Rohn
+  "The mind, once stretched by a new idea, never regains its original dimensions." - Oliver Wendell Holmes
 type: quote
 ---

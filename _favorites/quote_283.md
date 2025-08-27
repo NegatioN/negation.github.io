@@ -1,5 +1,5 @@
 ---
 text: >
-  "You can’t get much done in life if you only work on the days when you feel good." - Jerry West
+  "We won't be distracted by comparison if we are captivated with purpose." - Bob Goff
 type: quote
 ---

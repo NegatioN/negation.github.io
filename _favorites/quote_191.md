@@ -1,5 +1,5 @@
 ---
 text: >
-  "Learning is a weightless treasure you can always carry easily." - Chinese Proverb
+  "There is no small act of kindness. Every compassionate act makes large the world." - Mary Anne Radmacher
 type: quote
 ---

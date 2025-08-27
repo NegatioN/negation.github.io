@@ -1,5 +1,5 @@
 ---
 text: >
-  "At the end of the day, we can endure much more than we think we can." - Frida Kahlo
+  "It is easier to act yourself into a new way of thinking, than it is to think yourself into a new way of acting." - Millard Fuller
 type: quote
 ---

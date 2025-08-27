@@ -1,5 +1,5 @@
 ---
 text: >
-  "A good listener is one who helps us overhear ourselves." - Yahia Lababidi
+  "Remember that failure is an event, not a person." - Zig Ziglar
 type: quote
 ---

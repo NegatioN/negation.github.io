@@ -1,5 +1,5 @@
 ---
 text: >
-  "If you cannot find peace within yourself, you will never find it anywhere else." - Marvin Gaye
+  "Rise above the storm and you will find the sunshine." - Mario Fernandez
 type: quote
 ---

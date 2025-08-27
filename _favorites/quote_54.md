@@ -1,5 +1,5 @@
 ---
 text: >
-  "The only thing standing between you and your goal is the story you keep telling yourself as to why you can't achieve it." - Jordan Belfort
+  "You cannot start the next chapter of your life if you keep re-reading the last one." - Michael McMillan
 type: quote
 ---

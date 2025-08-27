@@ -1,5 +1,5 @@
 ---
 text: >
-  "Everything is possible. The impossible just takes longer." - Dan Brown
+  "You live longer once you realize that any time spent being unhappy is wasted." - Ruth E. Renkl
 type: quote
 ---

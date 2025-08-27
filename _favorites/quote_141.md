@@ -1,5 +1,5 @@
 ---
 text: >
-  "Spend more time smiling than frowning and more time praising than criticizing." - Richard Branson
+  "Yesterday is history; tomorrow is a mystery. Today is a gift, which is why we call it the present." - Bil Keane
 type: quote
 ---

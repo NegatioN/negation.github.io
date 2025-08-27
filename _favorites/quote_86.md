@@ -1,5 +1,5 @@
 ---
 text: >
-  "Showing off is the fool's idea of glory." - Bruce Lee
+  "A day without laughter is a day wasted." - Charlie Chaplin
 type: quote
 ---

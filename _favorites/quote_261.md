@@ -1,5 +1,5 @@
 ---
 text: >
-  "If you want to lift yourself up, lift up someone else." - Booker T. Washington
+  "It does not matter how slowly you go as long as you do not stop." - Confucius
 type: quote
 ---

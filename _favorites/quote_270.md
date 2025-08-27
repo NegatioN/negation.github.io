@@ -1,5 +1,5 @@
 ---
 text: >
-  "Better to do something imperfectly than to do nothing flawlessly." - Robert H. Schuller
+  "Kindness is as important as knowledge." - Megan Smith
 type: quote
 ---

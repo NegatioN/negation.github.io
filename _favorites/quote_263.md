@@ -1,5 +1,5 @@
 ---
 text: >
-  "Dwell on the beauty of life. Watch the stars, and see yourself running with them." - Marcus Aurelius
+  "Go confidently in the direction of your dreams. Live the life you have imagined." - Henry David Thoreau
 type: quote
 ---

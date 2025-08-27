@@ -1,5 +1,5 @@
 ---
 text: >
-  "Remember that failure is an event, not a person." - Zig Ziglar
+  "No matter what people tell you, words and ideas can change the world." - Robin Williams
 type: quote
 ---

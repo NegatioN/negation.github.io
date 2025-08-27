@@ -1,5 +1,5 @@
 ---
 text: >
-  "Today is the most important day of our lives." - Thich Nhat Hanh
+  "Difficult roads often lead to beautiful destinations." - Unknown
 type: quote
 ---

@@ -1,5 +1,5 @@
 ---
 text: >
-  "Fear does not prevent death. It prevents life." - Naguib Mahfouz
+  "The important thing is not to stop questioning. Curiosity has its own reason for existence." - Albert Einstein
 type: quote
 ---

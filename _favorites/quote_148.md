@@ -1,5 +1,5 @@
 ---
 text: >
-  "Outer order contributes to inner calm." - Gretchen Rubin
+  "The most difficult thing is the decision to act, the rest is merely tenacity." - Amelia Earhart
 type: quote
 ---

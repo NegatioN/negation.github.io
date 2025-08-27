@@ -1,5 +1,5 @@
 ---
 text: >
-  "It doesn't matter where you start. Only that you begin." - Robin Sharma
+  "The secret to your success is found in your daily routine." - John C. Maxwell
 type: quote
 ---

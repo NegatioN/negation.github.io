@@ -1,5 +1,5 @@
 ---
 text: >
-  "It's a job that's never started that takes the longest to finish." - J.R.R. Tolkien
+  "If you want to go fast, go alone. If you want to go far, bring others along." - Unknown
 type: quote
 ---

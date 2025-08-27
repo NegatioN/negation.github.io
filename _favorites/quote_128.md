@@ -1,5 +1,5 @@
 ---
 text: >
-  "Wherever you go, no matter what the weather, always bring your own sunshine." - Anthony J. D'Angelo
+  "Hard work beats talent when talent fails to work hard." - Tim Notke
 type: quote
 ---

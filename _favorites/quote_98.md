@@ -1,5 +1,5 @@
 ---
 text: >
-  "Don't envy what people have, emulate what they did to have it." - Tim Fargo
+  "Deal with the big while it is still small." - Lao Tzu
 type: quote
 ---

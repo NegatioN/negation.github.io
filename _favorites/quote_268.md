@@ -1,5 +1,5 @@
 ---
 text: >
-  "Rules for happiness: something to do, someone to love, something to hope for." - Immanuel Kant
+  "Nobody ever got ready by waiting. You only get ready by starting." - John C. Maxwell
 type: quote
 ---

@@ -1,5 +1,5 @@
 ---
 text: >
-  "You will get all you want in life if you help enough other people get what they want." - Zig Ziglar
+  "If we did all the things we are capable of, we would literally astound ourselves." - Thomas Edison
 type: quote
 ---
