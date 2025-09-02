@@ -1,5 +1,0 @@
----
-text: >
-  "Dare to live the life you have dreamed for yourself. Go forward and make your dreams come true." - Ralph Waldo Emerson
-type: quote
----

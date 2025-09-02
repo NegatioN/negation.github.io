@@ -1,5 +1,0 @@
----
-text: >
-  "If you are always trying to be normal you will never know how amazing you can be." - Maya Angelou
-type: quote
----

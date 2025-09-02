@@ -1,5 +1,0 @@
----
-text: >
-  "Be kind whenever possible. It is always possible." - Dalai Lama
-type: quote
----
