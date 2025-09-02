@@ -11,4 +11,4 @@ if __name__ == "__main__":
             fname = Path('..', f'{item_id}.md')
             if not fname.is_file():
                 with open(fname, 'w') as f:
-                    f.write(f"---\ntext: >\n  {item['text']}\nauthor: {item['author']}\norigin: {item['origin']}\norigin_url:{item['origin_url']}\nid: {item_id}\ndate: {item['date']} \n---\n")
+                    f.write(f"---\ntext: >\n  {item['text']}\nauthor: {item['author']}\norigin: {item['origin']}\norigin_url: {item['origin_url']}\nid: {item_id}\ndate: {item['date']} \n---\n")
