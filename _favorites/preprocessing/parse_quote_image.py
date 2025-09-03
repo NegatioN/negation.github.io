@@ -27,8 +27,8 @@ def main():
     except Exception as e:
         print(f"Error running OCR: {e}")
         return 1
-    quote = quote.replace('"', '\\"').encode("unicode_escape").decode()
-    print(fr'"{quote}","{args.author}","{args.origin_url}","{args.origin}","{datetime.now().strftime("%Y-%m-%d")}","{args.typ}"')
+    quote = quote.replace('"', '\\"')
+    print(fr'"{repr(quote)}","{args.author}","{args.origin}", "{args.origin_url}","{datetime.now().strftime("%Y-%m-%d")}","{args.typ}"')
     return 0
 
 if __name__ == "__main__":
