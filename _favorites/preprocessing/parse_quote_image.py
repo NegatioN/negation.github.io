@@ -23,12 +23,11 @@ def main():
     
     try:
         quote = doctr_parse(args.image_path)
-        print(f"Extracted quote: {quote}")
     except Exception as e:
         print(f"Error running OCR: {e}")
         return 1
-    quote = quote.replace('"', '\\"')
-    print(fr'"{repr(quote)}","{args.author}","{args.origin}", "{args.origin_url}","{datetime.now().strftime("%Y-%m-%d")}","{args.typ}"')
+    quote = quote.replace('"', '\\"').replace('\n', ' ').strip()
+    print(fr'"{quote}","{args.author}","{args.origin}", "{args.origin_url}","{datetime.now().strftime("%Y-%m-%d")}","{args.typ}"')
     return 0
 
 if __name__ == "__main__":
