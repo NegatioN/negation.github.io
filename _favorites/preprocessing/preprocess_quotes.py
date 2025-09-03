@@ -12,7 +12,7 @@ if __name__ == "__main__":
     with open('quotes_arranged', 'r') as csvfile:
         reader = csv.reader(csvfile, quotechar='"', delimiter=',')
         headers = next(reader, None)
-        output = [{'text': wrap_newline_in_html(row[0]), 'author': row[1], 'origin': row[2], 'origin_url': row[3], 'date': row[4], 'type': row[5]} for i, row in enumerate(reader)]
+        output = [{'text': wrap_newline_in_html(row[0]), 'author': row[1].strip(), 'origin': row[2], 'origin_url': row[3], 'date': row[4], 'type': row[5]} for i, row in enumerate(reader)]
         for item in output:
             item_id = create_id(item['author'], item['text'])
             fname = Path('..', f'{item_id}.md')

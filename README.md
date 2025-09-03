@@ -16,3 +16,5 @@ This is worth revisiting if Github ever starts supporting SSL for custom domain 
 1. Parse quotes from images
 2. Parse highlight exports from kindle, and add to quotes
 3. Separate quotes / favorites into categories of "fiction books", "non-fiction books", Videos, Podcasts, Comments, Articles, etc.
+4. Make a UI for adding quotes / favorites
+5. The UI should be able to prepopulate parts of the data: Like author, title, link, etc based on if its already existing in the database

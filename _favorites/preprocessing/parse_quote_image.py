@@ -6,7 +6,7 @@ from doctr.io import DocumentFile
 from doctr.models import ocr_predictor
 
 def doctr_parse(img_path):
-    model = ocr_predictor(pretrained=True)
+    model = ocr_predictor(pretrained=True, assume_straight_pages=False)
     # PDF
     doc = DocumentFile.from_images(img_path)
     return model(doc).render()

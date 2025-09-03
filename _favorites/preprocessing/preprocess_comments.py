@@ -51,7 +51,7 @@ def fetch_reddit_comment(url):
 
         return {
             'author': comment_data.get('author', 'Unknown'),
-            'text': comment_data.get('body', '').strip(),
+            'text': comment_data.get('body_html', '').strip(),
             'origin': 'Reddit',
             'origin_url': url,
             'id': f'reddit-{comment_data.get("id", "unknown")}',
@@ -74,4 +74,4 @@ if __name__ == "__main__":
 
     print('csv format:')
     yaml_text_block = out["text"].replace('\n', '\n  ').replace('"', '\\"')
-    print(fr'"{yaml_text_block}","{out["author"]}","{out["origin"]}","{out["origin_url"]}","{out["id"]}","{out["date"]}"')
+    print(fr'"{repr(yaml_text_block)}","{out["author"]}","{out["origin"]}","{out["origin_url"]}","{out["id"]}","{out["date"]}"')
