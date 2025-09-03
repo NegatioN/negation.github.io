@@ -11,3 +11,8 @@ providing full(stric) ssl termination that could also be helpful. I couldn't get
 but I learned some great things like CNAME-flattening from it.
 
 This is worth revisiting if Github ever starts supporting SSL for custom domain sites.
+
+### TODO
+1. Parse quotes from images
+2. Parse highlight exports from kindle, and add to quotes
+3. Separate quotes / favorites into categories of "fiction books", "non-fiction books", Videos, Podcasts, Comments, Articles, etc.

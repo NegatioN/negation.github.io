@@ -1,13 +1,15 @@
 import csv
 from pathlib import Path
+def create_id(author, origin):
+    return f'{author.lower().replace(" ", "_")}-{origin.lower().replace(" ", "_")}'
 
 if __name__ == "__main__":
     with open('quotes_arranged', 'r') as csvfile:
-        reader = csv.reader(csvfile)
+        reader = csv.reader(csvfile, quotechar='"', delimiter=',', escapechar='\\')
         headers = next(reader, None)
         output = [{'text': row[0], 'author': row[1], 'origin': row[2], 'origin_url': row[3], 'date': row[4]} for i, row in enumerate(reader)]
         for item in output:
-            item_id = f'{item["author"].lower().replace(" ", "_")}-{item["origin"].lower().replace(" ", "_")}'
+            item_id = create_id(item['author'], item['origin'])
             fname = Path('..', f'{item_id}.md')
             if not fname.is_file():
                 with open(fname, 'w') as f:

@@ -28,7 +28,7 @@ def fetch_hackernews_comment(url):
             
         author_link = comment_row.find('a', class_='hnuser')
         author = author_link.get_text(strip=True) if author_link else 'Unknown'
-        comment_span = comment_row.find('div', class_='commtext')
+        comment_span = comment_row.find('div', class_='body_html')
 
         return {'author': author, 'text': comment_span.decode_contents(), 'origin': 'Hacker News', 'origin_url': url, 'date': datetime.now().strftime('%Y-%m-%d')}
         
@@ -73,4 +73,5 @@ if __name__ == "__main__":
         print("Unsupported URL format. Please provide a valid Hacker News comment URL.")
 
     print('csv format:')
-    print(fr'"{out["text"]}","{out["author"]}","{out["origin"]}","{out["origin_url"]}","{out["id"]}","{out["date"]}"')
+    yaml_text_block = out["text"].replace('\n', '\n  ').replace('"', '\\"')
+    print(fr'"{yaml_text_block}","{out["author"]}","{out["origin"]}","{out["origin_url"]}","{out["id"]}","{out["date"]}"')
