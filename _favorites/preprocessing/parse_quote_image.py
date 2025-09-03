@@ -2,29 +2,8 @@
 
 import argparse
 from datetime import datetime
-from preprocess_quotes import create_id
 from doctr.io import DocumentFile
 from doctr.models import ocr_predictor
-
-def generate_favorites_file(quote, author, origin, typ="book", origin_url=""):
-    """Generate the favorites markdown file"""
-    quote_id = create_id(author, origin)
-    content = f"""---
-text: >
-  "{quote}"
-author: {author}
-origin: 1
-origin_url: {origin_url}
-id: {quote_id}
-date: {datetime.now().strftime('%Y-%m-%d')} 
-type: {typ}
----
-"""
-    filepath = f"../{quote_id}.md"
-    with open(filepath, 'w+') as f:
-        f.write(content)
-    
-    return filepath
 
 def doctr_parse(img_path):
     model = ocr_predictor(pretrained=True)
@@ -50,14 +29,6 @@ def main():
         return 1
     quote = quote.replace('"', '\\"').encode("unicode_escape").decode()
     print(fr'"{quote}","{args.author}","{args.origin_url}","{args.origin}","{datetime.now().strftime("%Y-%m-%d")}","{args.typ}"')
-
-    try:
-        filepath = generate_favorites_file(quote, args.author, args.origin, args.origin_url)
-        print(f"Generated favorites file: {filepath}")
-    except Exception as e:
-        print(f"Error generating file: {e}")
-        return 1
-    
     return 0
 
 if __name__ == "__main__":
